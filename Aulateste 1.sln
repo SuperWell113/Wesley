@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36109.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aulateste 1", "Aulateste 1.csproj", "{80BF8AF1-2F42-47FD-808A-1D843BA15C9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula", "..\aula\aula.csproj", "{126452B5-7AB3-44A7-A7FE-4C740B1BC840}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{80BF8AF1-2F42-47FD-808A-1D843BA15C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80BF8AF1-2F42-47FD-808A-1D843BA15C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80BF8AF1-2F42-47FD-808A-1D843BA15C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126452B5-7AB3-44A7-A7FE-4C740B1BC840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126452B5-7AB3-44A7-A7FE-4C740B1BC840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126452B5-7AB3-44A7-A7FE-4C740B1BC840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126452B5-7AB3-44A7-A7FE-4C740B1BC840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
